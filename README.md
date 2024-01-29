@@ -1,3 +1,3 @@
 ### hey, i'm ethan.
 
-currently managing and developing Screate 🪶
+currently managing and developing screate 🪶
