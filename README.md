@@ -1,3 +1,3 @@
-### Hey, I'm Ethan.
+### hey, i'm ethan.
 
-CEO & Developer @ Screate 🪶
+currently managing and developing Screate 🪶
