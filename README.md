@@ -1,1 +1,1 @@
-### hey, i'm ethan.
+### hey, i'm rice.
