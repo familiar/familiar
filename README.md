@@ -1,2 +1,5 @@
 ### hey, i'm rice
-[![I currently use](https://skillicons.dev/icons?i=nodejs,cpp,python,ps,ae,vscode,github)](https://skillicons.dev)
+Development Tools:
+[![Devving In](https://skillicons.dev/icons?i=nodejs,cpp,python,vscode,github)](https://skillicons.dev)
+Editing Tools:
+[![Devving In](https://skillicons.dev/icons?i=ae,ps)](https://skillicons.dev)
