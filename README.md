@@ -1,7 +1,7 @@
 # hey, i'm rice
 ### Development Tools:
 
-[![Devving In](https://skillicons.dev/icons?i=nodejs,cpp,python,vscode,github)](https://skillicons.dev)
+[![Devving In](https://skillicons.dev/icons?i=nodejs,html,css,cpp,python,vscode,github)](https://skillicons.dev)
 
 ### Editing Tools:
 
