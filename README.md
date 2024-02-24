@@ -1,1 +1,1 @@
-# hey, i'm rice!
+# "morally grey minecraft hacker"
