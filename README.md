@@ -3,10 +3,11 @@
   <p><strong>"Embracing and expressing resilience towards uncertainty, may just yield promise."</strong></p>
 </div>
 
-<br>
+<hr>
 
 <div align="center">
-  <p>I'm working on a few projects right now.</p>
+  <p><strong>Hey, you might know me as Rice! 🍚</strong></p>
+  <p>If you're wondering, here are a few projects I'm currently working on:</p>
   <br>
   <p>- Researching the implementation of ML into IPS solutions to help strengthen Cybersecurity infrastructures.</p>
   <p>- Leading the creation of mographs.com, a social media consulting site to aid creators with real feedback.</p>
